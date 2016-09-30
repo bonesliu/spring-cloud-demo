@@ -1,0 +1,3 @@
+clouddada: 
+  config: 
+    db: mysql
